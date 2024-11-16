@@ -1,0 +1,14 @@
+ab
+ba
+abcd
+abdc
+abcdef
+abcdfe
+abcdefgh
+abcdefhg
+abcdefghij
+abcdefghji
+abcdefghijab
+abcdefghijba
+abcdefghijabcd
+abcdefghijabdc
